@@ -1,4 +1,4 @@
-# Oie! Eu sou o José Morcelli
+# Olá, seja bem vindo(a)! Eu sou o José Morcelli!
 
 <div>
   <a href="https://github.com/josemorcelli">
