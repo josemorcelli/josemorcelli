@@ -1,6 +1,6 @@
 
 
-## <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=26&duration=3000&pause=450&color=F77100&multiline=true&width=495&height=170&lines=Seja+bem+vindo(a)+ao+meu+perfil.;Eu+sou+Jos%C3%A9+Morcelli;Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;na+Labenu.;Sou+de+S%C3%A3o+Paulo+-+SP" alt="Typing SVG" />
+## <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=800&size=26&duration=3000&pause=450&color=F77100&multiline=true&width=495&height=170&lines=Seja+bem+vindo(a)+ao+meu+perfil.;Eu+sou+Jos%C3%A9+Morcelli;Desenvolvedor+Full-Stack+em+forma%C3%A7%C3%A3o;na+Labenu.;Sou+de+S%C3%A3o+Paulo+-+SP"/>
 
 <div>
   <a href="https://github.com/josemorcelli">
