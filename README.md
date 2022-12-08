@@ -21,11 +21,12 @@
   <img align="center" alt="Morcelli-MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="mysql icons">
   <img align="center" alt="Morcelli-NodeJs" height="30" width="40" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" title="nodeJs">
   
+</div>
+<br>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=32&duration=2000&pause=450&color=F77202&width=160&height=70&lines=JavaScript;React+Js;HTML;CSS;TypeScript;MySQL;Node+Js"/>
   
-</div>
-  
-   ## Como me encontrar?
+   ## ✉️ Como me encontrar?
   
   <div> 
    <a href = "mailto:josemorcelli1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
