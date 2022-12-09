@@ -13,11 +13,11 @@
  <br>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Morcelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Morcelli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Morcelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Morcelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Morcelli-Typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=57&color=currentColor">
+  <img align="center" alt="Morcelli-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+    <img align="center" alt="Morcelli-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Morcelli-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
+  <img align="center" alt="Morcelli-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">
+  <img align="center" alt="Morcelli-Typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=57&color=currentColor" title="TypeScript">
   <img align="center" alt="Morcelli-MySQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" title="mysql icons">
   <img align="center" alt="Morcelli-NodeJs" height="30" width="40" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" title="nodeJs">
   
